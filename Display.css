@@ -1,0 +1,108 @@
+*{
+outline: 0;
+padding: 0;
+margin: 0;
+border: 0;
+}
+
+#wrapper{
+	height: 775px;
+	width: 870px;
+	background-color: rgb(137, 153, 102);
+	margin-left: 100px;
+}
+
+.banner{
+	height: 100px;
+	width: 870px;
+	padding-left: 140px;
+	padding-top: 30px;
+}
+
+.banner h1{
+	display: inline-block;
+	font-size: 40px;
+}
+
+.banner img{
+	height: 60px;
+	width: 120px;
+	background-color: white;
+}
+
+.left1{
+	height: 400px;
+	width: 130px;
+	margin-left: -100px;
+	margin-top: 15px;
+}
+
+.left1 img{
+	height: 130px;
+	width: 130px;
+	border: solid rgb(51, 153, 255) 10px;
+	outline: solid black 2px;
+	margin-bottom: 5px;
+}
+
+.left2{
+	height: 400px;
+	width: 130px;
+	margin-top: -400px;
+	margin-left: 60px;
+}
+
+.left2 img{
+	height: 130px;
+	width: 130px;
+	border: solid red 10px;
+	outline: solid black 2px;
+	margin-bottom: 5px;
+	background-color: red;
+}
+
+.left3{
+	height: 400px;
+	width: 130px;
+	margin-left: 220px;
+	margin-top: -400px;
+}
+
+.left3 img{
+	height: 130px;
+	width: 130px;
+	border: solid rgb(51, 153, 255) 10px;
+	outline: solid black 2px;
+	margin-bottom: 5px;
+}
+
+.left4{
+	height: 400px;
+	width: 130px;
+	margin-top: -400px;
+	margin-left: 380px;
+}
+
+.left4 img{
+	height: 130px;
+	width: 130px;
+	border: solid red 10px;
+	outline: solid black 2px;
+	margin-bottom: 5px;
+	background-color: red;
+}
+
+.left5{
+	height: 400px;
+	width: 130px;
+	margin-left: 540px;
+	margin-top: -400px;
+}
+
+.left5 img{
+	height: 130px;
+	width: 130px;
+	border: solid rgb(51, 153, 255) 10px;
+	outline: solid black 2px;
+	margin-bottom: 5px;
+}
